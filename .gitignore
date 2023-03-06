@@ -1,4 +1,6 @@
 # dependencies
+
+.gcloudignore
 /node_modules
 /.pnp
 .pnp.js
